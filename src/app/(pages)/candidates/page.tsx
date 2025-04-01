@@ -22,6 +22,7 @@ export default async function Candidates({ searchParams }: CandidatesProps) {
   return (
     <section className={styles.section}>
       <div className={styles.container}>
+        <p>HELLO</p>
         <CandidatesList
           searchCandidateArr={filteredCandidates}
           quantityCandidates={quantityCandidates}
