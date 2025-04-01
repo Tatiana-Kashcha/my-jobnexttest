@@ -1,0 +1,19 @@
+.section {
+  padding: 60px 0;
+}
+
+.container {
+  padding: 0 100px;
+  margin: 0 auto;
+  width: 1240px;
+  display: flex;
+  justify-content: center; 
+}
+
+.box {
+  padding: 40px 20px;
+  background-color: rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  width: 756px;
+}
+  

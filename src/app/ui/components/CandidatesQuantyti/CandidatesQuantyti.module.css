@@ -1,0 +1,12 @@
+.candidates_div {
+    padding: 20px 20px;
+    background-color: rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+}
+
